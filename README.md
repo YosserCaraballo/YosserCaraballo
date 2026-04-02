@@ -5,9 +5,9 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I'm a systems engineering student, almost finished with my degree. I'm expanding my skills to become a full stack software developer. I love learning and exploring new things, and I'm innovative and productive.
-* **I am interested in Web designing, Android development, and digital marketing**
+
 - 🌱 I’m currently learning ...
-  - Java
+  - Node.js
   - React js
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
